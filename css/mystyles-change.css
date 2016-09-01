@@ -30,4 +30,13 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
+@media screen and (min-width: 768px) {
+	
+	            #ReserveTable .modal-dialog  {width:600px;height:500px;}
 
+            }
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
