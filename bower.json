@@ -1,0 +1,25 @@
+{
+  "name": "conFusion",
+  "description": "Website for an awesome restaurant",
+  "main": "Ristorante Con Fusion_index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Sung-En Chang"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
